@@ -1,0 +1,12 @@
+
+<div class="container">
+    <h1>Hola Mundo</h1>
+    <div style="text-align: center; font-size:1.4rem">
+        {{#each products}}
+            <h3>{{this.tittle}}</h3>
+            <p>{{this.description}}</p>
+            <p><strong> ${{this.price}} </strong></p>
+        {{/each}}
+
+    </div>
+</div>

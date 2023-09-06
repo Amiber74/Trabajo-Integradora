@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"tittle": "Nina",
+		"description": "Perro",
+		"code": "100",
+		"price": 300,
+		"status": true,
+		"stock": 21,
+		"thumbnails": []
+	},
+	{
+		"id": 1,
+		"tittle": "Azucar",
+		"description": "edulcorante",
+		"code": "100",
+		"price": 300,
+		"status": true,
+		"stock": 50,
+		"thumbnails": []
+	},
+	{
+		"id": "1",
+		"tittle": "Curso",
+		"description": "Programacion Web",
+		"code": "001",
+		"price": "500",
+		"status": "true",
+		"stock": "60",
+		"thumbnails": [
+			"Captura de pantalla 2023-05-22 010301.png",
+			"Captura de pantalla 2023-05-22 010815.png"
+		]
+	}
+]
